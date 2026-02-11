@@ -1,0 +1,19 @@
+{
+    "name": "mymap.js",
+    "version": "1.0.0",
+    "description": "A lightweight, designer-grade Slippy Map library for high-performance canvas rendering and vintage aesthetics.",
+    "main": "mymap.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "map",
+        "canvas",
+        "geojson",
+        "vintage",
+        "cartography",
+        "minimalist"
+    ],
+    "author": "",
+    "license": "MIT"
+}
